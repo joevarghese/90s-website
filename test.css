@@ -1,0 +1,22 @@
+body{
+    background-image: url(
+        "https://graphicdesignjunction.com/wp-content/uploads/2011/02/background-pattern-design-90.jpg"
+    );
+
+
+}
+h1{
+    text-align:center;
+    color:blue;
+}
+li{
+    margin:40px;
+    font-size:23px;
+    text-align:center;
+    color:red;
+    ;
+}
+
+ol{
+    border:12px solid black;
+}
